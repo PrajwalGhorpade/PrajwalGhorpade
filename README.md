@@ -17,8 +17,6 @@ Working Student and Internship roles in Data Science
 
 ---
 
-Feel free to customize this further as per your preference. This description provides a clear and concise overview of your interests, current studies, and contact information, making it easy for potential employers and collaborators to understand your profile and get in touch with you.
-
 <!---
 PrajwalGhorpade/PrajwalGhorpade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
