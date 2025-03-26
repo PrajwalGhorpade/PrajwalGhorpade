@@ -5,14 +5,14 @@
 👀 **I’m interested in:**  
 Data Science Domain
 
-🌱 **I’m currently studying:**  
+🌱 **Finished with Studies:**  
 Masters in Data Science at the University of Europe for Applied Sciences, Potsdam, Germany
 
 💼 **I’m open to work:**  
-Working Student and Internship roles in Data Science
+Full Time Job roles in Data Science
 
 📫 **How to reach me:**  
-- **Email:** [Prajwalghorpade1008@gmail.com](mailto:Prajwalghorpade1008@gmail.com)
+- **Email:** [Prajwalghorpade1008@gmail.com , Prajwal.ghorpade77@gmail.com](mailto:Prajwal.ghorpade77@gmail.com)
 - **Mobile:** +4917686012707 / +917887979330 (WhatsApp)
 
 ---
