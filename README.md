@@ -6,10 +6,10 @@
 Data Science Domain
 
 🌱 **Finished with Studies:**  
-Masters in Data Science at the University of Europe for Applied Sciences, Potsdam, Germany
+Masters in Data Science from the University of Europe for Applied Sciences, Potsdam, Germany
 
 💼 **I’m open to work:**  
-Full Time Job roles in Data Science
+Full Time Job roles in Data Science 
 
 📫 **How to reach me:**  
 - **Email:** [Prajwalghorpade1008@gmail.com , Prajwal.ghorpade77@gmail.com](mailto:Prajwal.ghorpade77@gmail.com)
